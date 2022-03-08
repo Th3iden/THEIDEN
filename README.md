@@ -7,7 +7,7 @@
  السيرفر استخدم هذه الاوامر ⬇️
 ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ 
 
-git clone https://github.com/Th3iden/THEIDEN ;cd THEIDEN ;bash Spark
+git clone https://github.com/Th3iden/THEiDEN ;cd THEiDEN ;bash THEiDEN
 
 ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
 
