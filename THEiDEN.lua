@@ -2323,7 +2323,7 @@ if not msg.ControllerBot then
 return LuaTele.sendText(msg_chat_id,msg_id,'\n*᥀︙هاذا الامر يخص { '..Controller_Num(1)..' }* ',"md",true)  
 end
 os.execute('rm -rf THEiDEN.lua')
-download('https://github.com/Th3iden/THEIDEN','THEiDEN.lua')
+download('https://raw.githubusercontent.com/Th3iden/THEiDEN/main/THEiDEN.lua','THEiDEN.lua')
 return LuaTele.sendText(msg_chat_id,msg_id,'\n*᥀︙تم تحديث السورس * ',"md",true)  
 end
 if text == '『 تعطيل الاذاعه 』' or text == 'تعطيل الاذاعه' then
